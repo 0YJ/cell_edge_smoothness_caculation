@@ -1,0 +1,3 @@
+/home/luna/CLionProjects/jay/cmake-build-debug/CMakeFiles/jay.dir
+/home/luna/CLionProjects/jay/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/luna/CLionProjects/jay/cmake-build-debug/CMakeFiles/rebuild_cache.dir
